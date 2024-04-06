@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi  👋 , I'm Sakhr Wahib
+
+Backend Developer 
+
+---
+
+Do what you love for what you love 😎💯
+
+
 
 <!--
 **SakhrWahib/SakhrWahib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
