@@ -50,26 +50,3 @@
 <!-- About Me Section -->
 <h2 align="left">🚀 About Me</h2>
 
-```javascript
-const sakhrWahib = {
-    role: "Software Engineer",
-    specialization: "Backend Development",
-    experience: "3+ years",
-    location: "Yemen",
-    expertise: [
-        "Software Architecture",
-        "Backend Development",
-        "Database Design",
-        "API Development",
-        "System Design"
-    ],
-    techStack: {
-        backend: ["PHP", "Laravel", "Node.js"],
-        frontend: ["HTML", "CSS", "JavaScript", "Vue.js"],
-        database: ["MySQL", "PostgreSQL", "SQLite"],
-        tools: ["Git", "Docker", "VS Code", "Postman"],
-        architecture: ["MVC", "RESTful APIs", "Microservices"]
-    },
-    currentFocus: "Building scalable and maintainable backend systems",
-    funFact: "Turning coffee into code since 2021! ☕️💻"
-};
