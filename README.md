@@ -1,13 +1,21 @@
 <!-- Header with Animated Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Sakhr+Wahib;Full+Stack+Developer;2%2B+Years+of+Experience;Building+Amazing+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Sakhr+Wahib;Software+Engineer;Backend+Developer;3%2B+Years+of+Experience" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- Professional Title -->
+<h3 align="center">Software Engineer | Backend Developer</h3>
+
 <!-- Tech Stack Badges -->
 <div align="center">
+  <img src="https://img.shields.io/badge/Software_Engineer-007ACC?style=for-the-badge" alt="Software Engineer">
   <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge" alt="Backend Developer">
+  <img src="https://img.shields.io/badge/Experience-3+_Years-green?style=for-the-badge" alt="Experience">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -44,22 +52,24 @@
 
 ```javascript
 const sakhrWahib = {
-    role: "Full Stack Developer",
-    experience: "2+ years",
+    role: "Software Engineer",
+    specialization: "Backend Development",
+    experience: "3+ years",
     location: "Yemen",
     expertise: [
+        "Software Architecture",
         "Backend Development",
-        "Frontend Development",
         "Database Design",
         "API Development",
-        "Web Applications"
+        "System Design"
     ],
     techStack: {
         backend: ["PHP", "Laravel", "Node.js"],
         frontend: ["HTML", "CSS", "JavaScript", "Vue.js"],
         database: ["MySQL", "PostgreSQL", "SQLite"],
-        tools: ["Git", "Docker", "VS Code"]
+        tools: ["Git", "Docker", "VS Code", "Postman"],
+        architecture: ["MVC", "RESTful APIs", "Microservices"]
     },
-    currentFocus: "Building robust and scalable web applications",
-    funFact: "I believe in writing clean, maintainable code! 💻"
+    currentFocus: "Building scalable and maintainable backend systems",
+    funFact: "Turning coffee into code since 2021! ☕️💻"
 };
