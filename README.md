@@ -1,44 +1,65 @@
+<!-- Header with Animated Text -->
 <div align="center">
-  <h1 style="font-size: 36px;">Hi 👋 , I'm Sakhr Wahib</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Sakhr+Wahib;Full+Stack+Developer;2%2B+Years+of+Experience;Building+Amazing+Apps" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Tech Stack Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge" alt="Backend Developer">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue" alt="Backend Developer">
-  <img src="https://img.shields.io/badge/Laravel-blueviolet" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP-blue" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL">
-  <img src="https://img.shields.io/badge/NodeJS-brightgreen" alt="NodeJS">
-  <img src="https://img.shields.io/badge/REST-yellow" alt="REST">
-  <img src="https://img.shields.io/badge/REST APIs-orange" alt="REST APIs">
-  <img src="https://img.shields.io/badge/HTML-red" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-purple" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-yellowgreen" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Bootstrap-blue" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/jQuery-orange" alt="jQuery">
-  <img src="https://img.shields.io/badge/Tailwind-blueviolet" alt="Tailwind">
-  <img src="https://img.shields.io/badge/SCSS-pink" alt="SCSS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
 </div>
 
----
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakhrWahib&style=for-the-badge&color=3B82F6" alt="Profile Views">
+</div>
 
-#### Do what you love for what you love 😎💯
+<!-- Animated Quote -->
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Do+what+you+love+for+what+you+love+😎💯" alt="Quote" />
+  </h3>
+</div>
 
+<!-- About Me Section -->
+<h2 align="left">🚀 About Me</h2>
 
-Profile Views: [![Profile Views](https://komarev.com/ghpvc/?username=SakhrWahib&label=Profile+Views)](https://github.com/SakhrWahib)
-
-
-
-<!--
-**SakhrWahib/SakhrWahib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const sakhrWahib = {
+    role: "Full Stack Developer",
+    experience: "2+ years",
+    location: "Yemen",
+    expertise: [
+        "Backend Development",
+        "Frontend Development",
+        "Database Design",
+        "API Development",
+        "Web Applications"
+    ],
+    techStack: {
+        backend: ["PHP", "Laravel", "Node.js"],
+        frontend: ["HTML", "CSS", "JavaScript", "Vue.js"],
+        database: ["MySQL", "PostgreSQL", "SQLite"],
+        tools: ["Git", "Docker", "VS Code"]
+    },
+    currentFocus: "Building robust and scalable web applications",
+    funFact: "I believe in writing clean, maintainable code! 💻"
+};
