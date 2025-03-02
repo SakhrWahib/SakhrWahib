@@ -26,10 +26,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakhrWahib&bg_color=0D1117&color=E05397&line=FF5733&point=FFFFFF&hide_border=true" width="100%"/>
 
 <!-- About Me Section with Modern Design and Illustration -->
+<!-- About Me Section with Modern Design and Illustration -->
 <h2 align="left"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> About Me</h2>
 
-<div style="display: flex; align-items: center; background-color: #0d1117; border-radius: 10px; overflow: hidden;">
-  <div style="flex: 1; padding: 20px;">
+<div style="display: flex; align-items: center; background-color: #0d1117; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; padding-right: 20px;">
     <p>
       <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" alt="Brain"> I am a <b>Problem Solver & System Architect & Senior Backend Developer</b>
     </p>
@@ -47,7 +48,7 @@
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Animation" width="450">
+    <img src="https://raw.githubusercontent.com/SakhrWahib/SakhrWahib/main/coding.gif" alt="Developer Animation" width="400">
   </div>
 </div>
 
