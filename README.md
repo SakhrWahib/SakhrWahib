@@ -25,32 +25,33 @@
 <!-- Contribution Graph - Impressive -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakhrWahib&bg_color=0D1117&color=E05397&line=FF5733&point=FFFFFF&hide_border=true" width="100%"/>
 
-<!-- About Me Section with Modern Design and Illustration -->
-<!-- About Me Section with Modern Design and Illustration -->
+<!-- About Me Section with Side-by-Side Layout -->
 <h2 align="left"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> About Me</h2>
 
-<div style="display: flex; align-items: center; background-color: #0d1117; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>
-      <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" alt="Brain"> I am a <b>Problem Solver & System Architect & Senior Backend Developer</b>
-    </p>
-    <p>
-      <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="25" alt="Detective"> Passionate about <b>Complex Problem Solving and System Design</b>
-    </p>
-    <p>
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" alt="Growing"> Currently working as a <b>Senior Backend Developer</b> with focus on <b>Scalable Architecture</b>
-    </p>
-    <p>
-      <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-80e5e7361d1a.png" width="25" alt="Heart"> Advocate for <b>Team Collaboration</b> and <b>Open Source Contributions</b>
-    </p>
-    <p>
-      <img src="https://user-images.githubusercontent.com/74038190/216123498-58d628a0-5823-4e28-b927-0fba3765614b.png" width="25" alt="Thinking"> Looking forward to becoming an <b>AI Developer</b> and <b>Cloud Architect</b> 💪🤩
-    </p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://raw.githubusercontent.com/SakhrWahib/SakhrWahib/main/coding.gif" alt="Developer Animation" width="400">
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" alt="Brain"> I am a <b>Problem Solver & System Architect & Senior Backend Developer</b>
+      </p>
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="25" alt="Detective"> Passionate about <b>Complex Problem Solving and System Design</b>
+      </p>
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" alt="Growing"> Currently working as a <b>Senior Backend Developer</b> with focus on <b>Scalable Architecture</b>
+      </p>
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-80e5e7361d1a.png" width="25" alt="Heart"> Advocate for <b>Team Collaboration</b> and <b>Open Source Contributions</b>
+      </p>
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/216123498-58d628a0-5823-4e28-b927-0fba3765614b.png" width="25" alt="Thinking"> Looking forward to becoming an <b>AI Developer</b> and <b>Cloud Architect</b> 💪🤩
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Animation" width="400">
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Separator -->
 <p align="center">
