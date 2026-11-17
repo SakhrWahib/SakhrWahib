@@ -211,71 +211,81 @@
 <g class="motion"><circle r="13.3" fill="url(#nodeglow)"><animate attributeName="r" dur="33s" begin="-22.00s" repeatCount="indefinite" values="10.2;14.3;10.2;4.6;10.2" keyTimes="0;.25;.5;.75;1"/><animateMotion dur="33s" begin="-22.00s" repeatCount="indefinite"><mpath href="#orb2" xlink:href="#orb2"/></animateMotion></circle><circle r="5.1" fill="url(#node)"><animate attributeName="r" dur="33s" begin="-22.00s" repeatCount="indefinite" values="4.1;5.1;4.1;2.3;4.1" keyTimes="0;.25;.5;.75;1"/><animate attributeName="opacity" dur="33s" begin="-22.00s" repeatCount="indefinite" values=".85;1;.85;.4;.85" keyTimes="0;.25;.5;.75;1"/><animateMotion dur="33s" begin="-22.00s" repeatCount="indefinite"><mpath href="#orb2" xlink:href="#orb2"/></animateMotion></circle></g>
 <circle class="still" cx="531.3" cy="74.3" r="4.1" fill="url(#node)"/>
 </g>
-<path id="linkcal" d="M145 100 Q322 60 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".28"/>
-<g class="motion"><circle r="3" fill="#FFD1C2"><animateMotion dur="3.6s" begin="-0.0s" repeatCount="indefinite"><mpath href="#linkcal" xlink:href="#linkcal"/></animateMotion><animate attributeName="opacity" dur="3.6s" begin="-0.0s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.15;.8;1"/></circle></g>
-<g class="float" style="animation-delay:-0.0s"><g transform="translate(70 52) skewY(2.8)">
-<rect x="6" y="10" width="150" height="96" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
-<rect width="150" height="96" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
-<rect x="14" y="1" width="122" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
-<rect x="18" y="20" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="42" y="20" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="66" y="20" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="90" y="20" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="114" y="20" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="18" y="42" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="42" y="42" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="66" y="42" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="90" y="42" width="16" height="14" rx="3" fill="url(#brand)" opacity="1"/>
-<rect x="114" y="42" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="18" y="64" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="42" y="64" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="66" y="64" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="90" y="64" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<rect x="114" y="64" width="16" height="14" rx="3" fill="#FFFFFF" opacity="0.14"/>
-<circle class="halo" cx="98" cy="49" r="9" fill="none" stroke="#FF7A55" stroke-width="1.2"/>
+<path id="link01" d="M242 59 Q371 90 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".3"/>
+<g class="motion"><circle r="3.2" fill="#FFD1C2"><animateMotion dur="3.4s" begin="-0.6s" repeatCount="indefinite"><mpath href="#link01" xlink:href="#link01"/></animateMotion><animate attributeName="opacity" dur="3.4s" begin="-0.6s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.12;.85;1"/></circle></g>
+<g class="float" style="animation-delay:-0.6s"><g transform="translate(24 14) skewY(2.5)">
+<rect x="5" y="9" width="218" height="90" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
+<rect width="218" height="90" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+<rect x="14" y="1" width="190" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
+<g transform="translate(14 20)"><rect x="0" y="4" width="44" height="40" rx="7" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="1.6"/><rect x="0" y="4" width="44" height="10" rx="5" fill="url(#brand)" opacity=".9"/><rect x="5.0" y="18.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="14.5" y="18.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="24.0" y="18.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="33.5" y="18.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="5.0" y="26.5" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="14.5" y="26.5" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="24.0" y="26.5" width="6" height="5" rx="1.5" fill="#FF7A55" opacity="1"/><rect x="33.5" y="26.5" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="5.0" y="35.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="14.5" y="35.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="24.0" y="35.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/><rect x="33.5" y="35.0" width="6" height="5" rx="1.5" fill="#FFFFFF" opacity="0.3"/></g>
+<text x="70" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A55" letter-spacing="1">01</text>
+<text x="94" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing=".5">BOOK</text>
+<text x="70" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#AEB7C2">Service · Staff · Time</text>
 </g></g>
-<path id="linkpay" d="M865 94 Q682 54 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".28"/>
-<g class="motion"><circle r="3" fill="#FFD1C2"><animateMotion dur="3.6s" begin="-2.2s" repeatCount="indefinite"><mpath href="#linkpay" xlink:href="#linkpay"/></animateMotion><animate attributeName="opacity" dur="3.6s" begin="-2.2s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.15;.8;1"/></circle></g>
-<g class="float" style="animation-delay:-2.2s"><g transform="translate(790 46) skewY(-2.8)">
-<rect x="6" y="10" width="150" height="96" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
-<rect width="150" height="96" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
-<rect x="14" y="1" width="122" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
-<rect x="22" y="20" width="106" height="58" rx="9" fill="url(#brand)" opacity=".85"/>
-<rect x="34" y="34" width="20" height="15" rx="3" fill="#FFE3D6" opacity=".85"/>
-<rect x="34" y="60" width="64" height="5" rx="2.5" fill="#FFFFFF" opacity=".6"/>
-<circle cx="108" cy="40" r="7" fill="#FFFFFF" opacity=".35"/><circle cx="116" cy="40" r="7" fill="#FFFFFF" opacity=".25"/>
+<path id="link02" d="M242 179 Q371 150 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".3"/>
+<g class="motion"><circle r="3.2" fill="#FFD1C2"><animateMotion dur="3.4s" begin="-1.2s" repeatCount="indefinite"><mpath href="#link02" xlink:href="#link02"/></animateMotion><animate attributeName="opacity" dur="3.4s" begin="-1.2s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.12;.85;1"/></circle></g>
+<g class="float" style="animation-delay:-1.2s"><g transform="translate(24 134) skewY(2.5)">
+<rect x="5" y="9" width="218" height="90" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
+<rect width="218" height="90" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+<rect x="14" y="1" width="190" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
+<g transform="translate(14 20)"><rect x="0" y="9" width="44" height="30" rx="6" fill="url(#brand)" opacity=".9"/><rect x="6" y="16" width="9" height="7" rx="1.5" fill="#FFE3D6" opacity=".9"/><rect x="6" y="29" width="26" height="3" rx="1.5" fill="#FFFFFF" opacity=".7"/><circle cx="34" cy="19" r="4" fill="#FFFFFF" opacity=".45"/><circle cx="38" cy="19" r="4" fill="#FFFFFF" opacity=".3"/></g>
+<text x="70" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A55" letter-spacing="1">02</text>
+<text x="94" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing=".5">PAY</text>
+<text x="70" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#AEB7C2">Mada · Apple Pay · BNPL</text>
 </g></g>
-<path id="linkpeople" d="M174 303 Q337 142 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".28"/>
-<g class="motion"><circle r="3" fill="#FFD1C2"><animateMotion dur="3.6s" begin="-1.1s" repeatCount="indefinite"><mpath href="#linkpeople" xlink:href="#linkpeople"/></animateMotion><animate attributeName="opacity" dur="3.6s" begin="-1.1s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.15;.8;1"/></circle></g>
-<g class="float" style="animation-delay:-1.1s"><g transform="translate(110 262) skewY(3.5)">
-<rect x="6" y="10" width="128" height="82" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
-<rect width="128" height="82" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
-<rect x="14" y="1" width="100" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
-<circle cx="40" cy="32" r="9" fill="#FFFFFF" opacity="0.5"/>
-<path d="M25 66 a15 14 0 0 1 30 0 z" fill="#FFFFFF" opacity="0.40"/>
-<circle cx="64" cy="32" r="9" fill="url(#brand)" opacity="0.95"/>
-<path d="M49 66 a15 14 0 0 1 30 0 z" fill="url(#brand)" opacity="0.76"/>
-<circle cx="88" cy="32" r="9" fill="#FFFFFF" opacity="0.5"/>
-<path d="M73 66 a15 14 0 0 1 30 0 z" fill="#FFFFFF" opacity="0.40"/>
+<path id="link03" d="M242 299 Q371 210 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".3"/>
+<g class="motion"><circle r="3.2" fill="#FFD1C2"><animateMotion dur="3.4s" begin="-1.8s" repeatCount="indefinite"><mpath href="#link03" xlink:href="#link03"/></animateMotion><animate attributeName="opacity" dur="3.4s" begin="-1.8s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.12;.85;1"/></circle></g>
+<g class="float" style="animation-delay:-1.8s"><g transform="translate(24 254) skewY(2.5)">
+<rect x="5" y="9" width="218" height="90" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
+<rect width="218" height="90" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+<rect x="14" y="1" width="190" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
+<g transform="translate(14 20)"><rect x="8" y="0" width="28" height="46" rx="6" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="1.6"/><path d="M13 12 h18 a3 3 0 0 1 3 3 v9 a3 3 0 0 1 -3 3 h-11 l-5 4 v-4 a3 3 0 0 1 -2 -3 v-9 a3 3 0 0 1 3 -3 z" fill="#25D366" opacity=".9"/><path d="M17 20 l3 3 l6 -6" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="14" y="36" width="16" height="3" rx="1.5" fill="#FFFFFF" opacity=".5"/></g>
+<text x="70" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A55" letter-spacing="1">03</text>
+<text x="94" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing=".5">CONFIRM</text>
+<text x="70" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#AEB7C2">WhatsApp · SMS · OTP</text>
 </g></g>
-<path id="linkbars" d="M834 303 Q667 142 500 182" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".28"/>
-<g class="motion"><circle r="3" fill="#FFD1C2"><animateMotion dur="3.6s" begin="-3.3s" repeatCount="indefinite"><mpath href="#linkbars" xlink:href="#linkbars"/></animateMotion><animate attributeName="opacity" dur="3.6s" begin="-3.3s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.15;.8;1"/></circle></g>
-<g class="float" style="animation-delay:-3.3s"><g transform="translate(770 262) skewY(-3.5)">
-<rect x="6" y="10" width="128" height="82" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
-<rect width="128" height="82" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
-<rect x="14" y="1" width="100" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
-<rect class="bar" style="animation-delay:-0.0s" x="20" y="42" width="11" height="26" rx="3" fill="url(#brand)" opacity="0.55"/>
-<rect class="bar" style="animation-delay:-0.5s" x="39" y="28" width="11" height="40" rx="3" fill="url(#brand)" opacity="0.64"/>
-<rect class="bar" style="animation-delay:-1.0s" x="58" y="36" width="11" height="32" rx="3" fill="url(#brand)" opacity="0.73"/>
-<rect class="bar" style="animation-delay:-1.5s" x="77" y="16" width="11" height="52" rx="3" fill="url(#brand)" opacity="0.82"/>
-<rect class="bar" style="animation-delay:-2.0s" x="96" y="24" width="11" height="44" rx="3" fill="url(#brand)" opacity="0.91"/>
-<path d="M20 30 L48 22 L70 28 L96 12 L110 16" fill="none" stroke="#FFE3D6" stroke-width="1.6" opacity=".7"/>
+<path id="link04" d="M500 182 Q629 90 758 59" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".3"/>
+<g class="motion"><circle r="3.2" fill="#FFD1C2"><animateMotion dur="3.4s" begin="-2.4s" repeatCount="indefinite"><mpath href="#link04" xlink:href="#link04"/></animateMotion><animate attributeName="opacity" dur="3.4s" begin="-2.4s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.12;.85;1"/></circle></g>
+<g class="float" style="animation-delay:-2.4s"><g transform="translate(758 14) skewY(-2.5)">
+<rect x="5" y="9" width="218" height="90" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
+<rect width="218" height="90" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+<rect x="14" y="1" width="190" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
+<g transform="translate(14 20)"><circle cx="5" cy="8" r="4.5" fill="url(#brand)" opacity="0.9"/><rect x="14" y="5" width="26" height="6" rx="3" fill="url(#brand)" opacity="0.77"/><circle cx="5" cy="22" r="4.5" fill="#FFFFFF" opacity="0.6"/><rect x="14" y="19" width="18" height="6" rx="3" fill="url(#brand)" opacity="0.51"/><circle cx="5" cy="36" r="4.5" fill="#FFFFFF" opacity="0.75"/><rect x="14" y="33" width="30" height="6" rx="3" fill="url(#brand)" opacity="0.64"/></g>
+<text x="70" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A55" letter-spacing="1">04</text>
+<text x="94" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing=".5">SCHEDULE</text>
+<text x="70" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#AEB7C2">Staff · Branches · Slots</text>
 </g></g>
+<path id="link05" d="M500 182 Q629 150 758 179" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".3"/>
+<g class="motion"><circle r="3.2" fill="#FFD1C2"><animateMotion dur="3.4s" begin="-3.0s" repeatCount="indefinite"><mpath href="#link05" xlink:href="#link05"/></animateMotion><animate attributeName="opacity" dur="3.4s" begin="-3.0s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.12;.85;1"/></circle></g>
+<g class="float" style="animation-delay:-3.0s"><g transform="translate(758 134) skewY(-2.5)">
+<rect x="5" y="9" width="218" height="90" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
+<rect width="218" height="90" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+<rect x="14" y="1" width="190" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
+<g transform="translate(14 20)"><path d="M6 0 h32 v46 l-5 -3 l-5 3 l-5 -3 l-5 3 l-5 -3 l-5 3 z" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="1.6"/><rect x="11" y="8" width="18" height="2.5" rx="1.2" fill="#FFFFFF" opacity=".55"/><rect x="11" y="14" width="12" height="2.5" rx="1.2" fill="#FFFFFF" opacity=".55"/><rect x="11" y="20" width="16" height="2.5" rx="1.2" fill="#FFFFFF" opacity=".55"/><rect x="11" y="27" width="5" height="5" fill="url(#brand)"/><rect x="17" y="27" width="5" height="5" fill="url(#brand)"/><rect x="11" y="33" width="5" height="5" fill="url(#brand)"/><rect x="23" y="33" width="5" height="5" fill="url(#brand)"/><rect x="17" y="33" width="5" height="5" fill="url(#brand)"/><rect x="27" y="27" width="5" height="5" fill="url(#brand)"/></g>
+<text x="70" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A55" letter-spacing="1">05</text>
+<text x="94" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing=".5">INVOICE</text>
+<text x="70" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#AEB7C2">VAT · ZATCA-ready</text>
+</g></g>
+<path id="link06" d="M500 182 Q629 210 758 299" fill="none" stroke="url(#brand)" stroke-width="1" opacity=".3"/>
+<g class="motion"><circle r="3.2" fill="#FFD1C2"><animateMotion dur="3.4s" begin="-3.6s" repeatCount="indefinite"><mpath href="#link06" xlink:href="#link06"/></animateMotion><animate attributeName="opacity" dur="3.4s" begin="-3.6s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.12;.85;1"/></circle></g>
+<g class="float" style="animation-delay:-3.6s"><g transform="translate(758 254) skewY(-2.5)">
+<rect x="5" y="9" width="218" height="90" rx="14" fill="#000" opacity=".35" filter="url(#soft)"/>
+<rect width="218" height="90" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+<rect x="14" y="1" width="190" height="1.5" rx=".75" fill="#FFFFFF" opacity=".35"/>
+<g transform="translate(14 20)"><rect class="bar" style="animation-delay:-0.0s" x="2" y="30" width="7" height="14" rx="2" fill="url(#brand)" opacity="0.60"/><rect class="bar" style="animation-delay:-0.5s" x="13" y="22" width="7" height="22" rx="2" fill="url(#brand)" opacity="0.72"/><rect class="bar" style="animation-delay:-1.0s" x="24" y="26" width="7" height="18" rx="2" fill="url(#brand)" opacity="0.84"/><rect class="bar" style="animation-delay:-1.5s" x="35" y="12" width="7" height="32" rx="2" fill="url(#brand)" opacity="0.96"/><path d="M2 16 L14 10 L25 14 L42 2" fill="none" stroke="#FFE3D6" stroke-width="1.8" stroke-linecap="round" opacity=".8"/></g>
+<text x="70" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A55" letter-spacing="1">06</text>
+<text x="94" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing=".5">GROW</text>
+<text x="70" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#AEB7C2">Reports &amp; insights</text>
+</g></g>
+<text x="133" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8B949E" letter-spacing="2">CUSTOMER JOURNEY →</text>
+<text x="867" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8B949E" letter-spacing="2">→ BUSINESS OPERATIONS</text>
 <circle cx="500" cy="182" r="120" fill="url(#glow)"/>
 <circle class="halo" style="animation-delay:-0.0s" cx="500" cy="182" r="40" fill="none" stroke="#FF7A55" stroke-width="1.5"/>
 <circle class="halo" style="animation-delay:-1.5s" cx="500" cy="182" r="40" fill="none" stroke="#FF7A55" stroke-width="1.5"/>
 <circle class="halo" style="animation-delay:-3.0s" cx="500" cy="182" r="40" fill="none" stroke="#FF7A55" stroke-width="1.5"/>
 <g class="rot"><circle cx="500" cy="182" r="52" fill="none" stroke="url(#brand)" stroke-width="1.2" stroke-dasharray="3 9" opacity=".7"/></g>
+<rect x="426" y="248" width="148" height="22" rx="11" fill="#0D1117" stroke="url(#brand)" stroke-opacity=".6"/>
+<text x="500" y="263" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#FFD1C2" letter-spacing="1.5">MULTI-TENANT CORE</text>
 <g class="breath"><circle cx="500" cy="182" r="38" fill="url(#core)"/><ellipse cx="489" cy="169" rx="13" ry="8" fill="#FFFFFF" opacity=".35" transform="rotate(-30 489 169)"/></g>
 </g>
 </g>
