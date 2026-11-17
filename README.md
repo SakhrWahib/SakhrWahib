@@ -60,7 +60,7 @@
 
 <!-- ===================== FEATURED PROJECT: MAWIDCLOUD (added 2026-11-17) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:E05397&height=150&section=header&text=MawidCloud&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Multi-tenant%20Booking%20SaaS%20%E2%80%94%20designed%20%26%20built%20end-to-end&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="MawidCloud" />
+  <img src="./assets/mawidcloud-banner.svg" width="100%" alt="MawidCloud — Multi-tenant Booking SaaS" />
 </p>
 
 <p align="center">

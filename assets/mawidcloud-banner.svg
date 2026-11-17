@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="MawidCloud — Multi-tenant Booking SaaS">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF5733"/>
+      <stop offset="1" stop-color="#E05397"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="170" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="170" fill="url(#g)"/>
+    <path d="M0 130 C 180 100, 320 165, 520 135 S 860 95, 1000 125 L1000 170 L0 170 Z" fill="#0D1117" opacity="0.18"/>
+    <path d="M0 148 C 220 125, 380 175, 600 150 S 880 120, 1000 145 L1000 170 L0 170 Z" fill="#0D1117" opacity="0.22"/>
+    <rect x="-300" y="0" width="300" height="170" fill="url(#shine)">
+      <animate attributeName="x" from="-300" to="1000" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="#fff" opacity="0.9">
+      <rect x="60" y="48" width="56" height="56" rx="10" fill="none" stroke="#fff" stroke-width="4"/>
+      <line x1="60" y1="64" x2="116" y2="64" stroke="#fff" stroke-width="4"/>
+      <line x1="74" y1="40" x2="74" y2="54" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <line x1="102" y1="40" x2="102" y2="54" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <path d="M75 84 l9 9 l17 -17" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="140" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#fff">MawidCloud</text>
+    <text x="142" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#fff" opacity="0.92">Multi-tenant Booking SaaS — designed &amp; built end-to-end</text>
+  </g>
+</svg>
