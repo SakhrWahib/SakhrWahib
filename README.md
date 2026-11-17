@@ -60,9 +60,7 @@
 
 <!-- ===================== FEATURED PROJECT: MADAR (added 2026-11-17) ===================== -->
 <p align="center">
-  <img src="./assets/madar-banner.svg" width="100%" alt="Madar — All your business in one orbit" />
-  <br/>
-  <img src="./assets/madar-scene.svg" width="100%" alt="Madar — one intelligent core connecting bookings, customers, payments and analytics" />
+  <img src="./assets/madar-scene.svg" width="100%" alt="Madar — All your business in one orbit" />
 </p>
 
 <p align="center">
