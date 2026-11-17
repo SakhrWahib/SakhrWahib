@@ -58,91 +58,36 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </p>
 
-<!-- ===================== FEATURED PROJECT: MAWIDCLOUD (added 2026-11-17) ===================== -->
+<!-- ===================== FEATURED PROJECT: MADAR (added 2026-11-17) ===================== -->
 <p align="center">
-  <img src="./assets/mawidcloud-banner.svg" width="100%" alt="MawidCloud — Multi-tenant Booking SaaS" />
+  <img src="./assets/madar-banner.svg" width="100%" alt="Madar — All your business in one orbit" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
-  <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.3" />
-  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,vite,githubactions&theme=dark" alt="Laravel, PHP, MySQL, Tailwind, Vite, GitHub Actions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHPUnit-184_tests_passing-2EA043?style=flat-square&logo=php&logoColor=white" alt="184 tests passing" />
-  <img src="https://img.shields.io/badge/CI-green_on_every_push-2EA043?style=flat-square&logo=githubactions&logoColor=white" alt="CI" />
-  <img src="https://img.shields.io/badge/Pull_Requests-18%2B_merged-8957E5?style=flat-square&logo=github&logoColor=white" alt="18+ merged PRs" />
-  <img src="https://img.shields.io/badge/ZATCA-e--invoicing_ready-006C35?style=flat-square" alt="ZATCA" />
-  <img src="https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
-  <img src="https://img.shields.io/badge/Languages-AR_%7C_EN-FF5733?style=flat-square" alt="Arabic and English" />
+  <img src="./assets/madar-stats.svg" width="100%" alt="184 tests passing · 18+ merged PRs · 6 payment methods · Arabic and English" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🏢 Multi-Tenancy</h4>
-      Every business gets its own subdomain or custom domain, branding, settings and fully isolated data.
-    </td>
-    <td width="33%" valign="top">
-      <h4>📅 Booking Engine</h4>
-      Services, staff and branches, slot hold during online payment, zero double-booking, Saudi time zone.
-    </td>
-    <td width="33%" valign="top">
-      <h4>💳 Payments</h4>
-      Mada, Visa, Apple Pay, Tabby, Tamara and pay-on-arrival. Late payments are always captured.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧾 Business Suite</h4>
-      VAT invoices (ZATCA-ready), coupons, session packages, reports, setup wizard and subscriptions.
-    </td>
-    <td width="33%" valign="top">
-      <h4>💬 Messaging</h4>
-      WhatsApp &amp; SMS notifications, 6-digit verification codes, signed delivery webhooks.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🔐 Security</h4>
-      Closed a path-traversal leak, removed public maintenance routes, purged secrets from code and Git history.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Tenant-0D1117?style=for-the-badge&logo=databricks&logoColor=FF5733" alt="Multi-Tenant" />
+  <img src="https://img.shields.io/badge/Smart_Booking-0D1117?style=for-the-badge&logo=googlecalendar&logoColor=FF5733" alt="Smart Booking" />
+  <img src="https://img.shields.io/badge/Mada_·_Apple_Pay_·_Tabby_·_Tamara-0D1117?style=for-the-badge&logo=applepay&logoColor=E05397" alt="Payments" />
+  <img src="https://img.shields.io/badge/ZATCA_e--Invoicing-0D1117?style=for-the-badge&logo=adguard&logoColor=E05397" alt="ZATCA" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp API" />
+</p>
 
-<p align="center"><b>Engineering workflow:</b> Issue → Branch → Pull Request → Code Review → Merge on green CI<br/>
-<sub>Every push: MySQL service · Vite build · 184 PHPUnit tests · smoke test of every page as guest and admin</sub></p>
-
-<p align="center"><sub>🔒 Commercial product — source code is private. Live demo available on request.</sub></p>
+<p align="center"><sub>🔒 Private commercial product · Demo on request</sub></p>
 
 <!-- ===================== REAL-WORLD WORK (added 2026-11-17) ===================== -->
-<h2 align="left">🛒 Real-World Work</h2>
-
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🐱 E-commerce Operations</h4>
-      Run and develop two live pet-supply stores on <b>Shopify</b> and <b>Zid</b>: custom theme development, catalog data, discounts and order operations.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 AI Store Automation</h4>
-      Connected AI agents to both stores through their APIs (Shopify GraphQL Admin API, MCP) for orders, inventory and reporting.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🗺️ Route Optimization</h4>
-      Courier routing pipeline: orders → geocoding → OSRM road matrix → exact shortest-route solver (Held-Karp) → driver sheets.
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+  <img src="https://img.shields.io/badge/Shopify_&_Zid_Stores-Live-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify and Zid stores" />
   <img src="https://img.shields.io/badge/AI_Agents-MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Agents MCP" />
+  <img src="https://img.shields.io/badge/Route_Optimization-OSRM-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Route Optimization" />
+  <img src="https://img.shields.io/badge/GraphQL_API-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <!-- Animated Separator -->
